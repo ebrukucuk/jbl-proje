@@ -50,6 +50,9 @@ body {
     color: var(--text-color);
     font-size: var(--normal-font-size);
     font-family: var(--body-font);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1,
